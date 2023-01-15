@@ -1,0 +1,30 @@
+* {
+    font-family: Inter;
+}
+body {
+    background-color: #6a27ef;
+    color: white;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-top: 18%;
+}
+.container button {
+    padding: 10px;
+    border-radius: 2px;
+    border-color: transparent;
+    font-weight: 900;
+}
+.container h2:nth-child(2) span {
+    color: #10fcd9;
+
+}
+.container h2:nth-child(1) span {
+    color: #ffc400;
+
+}
+.container h2:nth-child(3) span {
+    color: #09ff21;
+}
